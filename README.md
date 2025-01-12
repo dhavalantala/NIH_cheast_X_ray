@@ -1,1 +1,5 @@
-# NIH_cheast_X_ray
+# NIH Cheast X-ray
+
+## *Problem Statement*:
+
+Chest X-rays are critical in diagnosing various thoracic diseases, but their interpretation can be challenging due to the complexity and variety of conditions present. Current automated systems for detecting and classifying these conditions are limited by the lack of accurate, large-scale annotated datasets and the difficulty in achieving high accuracy. The goal of this project is to develop a deep learning model capable of accurately detecting and classifying various findings in chest X-ray images from the NIH Chest X-ray dataset. The model will leverage convolutional neural networks (CNNs) and transfer learning to identify diseases such as pneumonia, cardiomegaly, pneumothorax, and others. By achieving high accuracy and efficient model performance, the system aims to assist clinicians in diagnosing diseases from chest X-rays more accurately and promptly, ultimately improving patient care outcomes.
